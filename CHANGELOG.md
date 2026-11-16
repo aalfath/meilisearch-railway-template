@@ -1,6 +1,10 @@
 # Changelog
 
 Each entry is one version of this template. Breaking changes come first.
+## 2026-11-16: Deploy on Railway button
+
+- README: add the Deploy on Railway button for the published template (`meilisearch-4`). No change to the image or the service.
+
 
 ## 2026-11-16: Meilisearch v1.56.2
 

@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/meilisearch-4?utm_medium=integration&utm_source=button&utm_campaign=meilisearch)
+
 # Meilisearch on Railway
 
 This repo is the source of the **Meilisearch** template on Railway. It deploys [Meilisearch](https://www.meilisearch.com/), the open-source search engine, as one service built from this repo.
